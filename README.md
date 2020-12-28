@@ -1,1 +1,1 @@
-# Spin-AR
+# spin
